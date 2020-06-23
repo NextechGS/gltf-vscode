@@ -15,7 +15,7 @@ and
 
 This only needs to be completed once, and enables contributions to all of the projects under the [NextechGS](https://github.com/NextechGS) organization.  The CLA ensures you retain copyright to your contributions, and provides us the right to use, modify, and redistribute your contributions using the [Apache 2.0 License](LICENSE.md).
 
-Please email a completed CLA with all fields filled in to [NextechJS](mailto:mark.malewski@gmail.com).  Related questions are also welcome.
+Please email a completed CLA with all fields filled in to [NextechGS](mailto:mark.malewski@gmail.com).  Related questions are also welcome.
 
 ## Developer Environment
 
