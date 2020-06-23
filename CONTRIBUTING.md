@@ -8,6 +8,7 @@ Before we can merge a pull request, we require a signed Contributor License Agre
 
 * [individuals (txt)](https://github.com/AnalyticalGraphicsInc/cesium/blob/master/Documentation/Contributors/CLAs/individual-cla-agi-v1.0.txt) 
 - [individuals (form)](https://docs.google.com/forms/d/e/1FAIpQLScU-yvQdcdjCFHkNXwdNeEXx5Qhu45QXuWX_uF5qiLGFSEwlA/viewform) 
+
 and
 * [corporations (txt)](https://github.com/AnalyticalGraphicsInc/cesium/blob/master/Documentation/Contributors/CLAs/corporate-cla-agi-v1.0.txt).
 - [corporations (form)](https://docs.google.com/forms/d/e/1FAIpQLSeYEaWlBl1tQEiegfHMuqnH9VxyfgXGyIw13C2sN7Fj3J3GVA/viewform).
