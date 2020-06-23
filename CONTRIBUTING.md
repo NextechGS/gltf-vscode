@@ -69,5 +69,5 @@ Now you can debug the HTML preview in the sandboxed iframe.
 
 ## Code of Conduct
 
-To ensure an inclusive community, contributors and users in the NextechJS community should follow the [code of conduct](./CODE_OF_CONDUCT.md).
+To ensure an inclusive community, contributors and users in the NextechGS community should follow the [code of conduct](./CODE_OF_CONDUCT.md).
 
