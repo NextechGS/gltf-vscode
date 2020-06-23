@@ -69,5 +69,5 @@ Now you can debug the HTML preview in the sandboxed iframe.
 
 ## Code of Conduct
 
-To ensure an inclusive community, contributors and users in the Cesium community should follow the [code of conduct](./CODE_OF_CONDUCT.md).
+To ensure an inclusive community, contributors and users in the NodeJS community should follow the [code of conduct](./CODE_OF_CONDUCT.md).
 
