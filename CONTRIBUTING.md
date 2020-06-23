@@ -13,7 +13,7 @@ and
 * [corporations (pdf)](https://github.com/NextechGS/NextechJS/blob/master/Documentation/Contributors/CLAs/corporate-contributor-license-agreement-v1.0.pdf) 
 - [corporations (form)](https://docs.google.com/forms/d/e/1FAIpQLSeYEaWlBl1tQEiegfHMuqnH9VxyfgXGyIw13C2sN7Fj3J3GVA/viewform).
 
-This only needs to be completed once, and enables contributions to all of the projects under the [Analytical Graphics Inc](https://github.com/AnalyticalGraphicsInc) organization.  The CLA ensures you retain copyright to your contributions, and provides us the right to use, modify, and redistribute your contributions using the [Apache 2.0 License](LICENSE.md).
+This only needs to be completed once, and enables contributions to all of the projects under the [NextechGS](https://github.com/NextechGS) organization.  The CLA ensures you retain copyright to your contributions, and provides us the right to use, modify, and redistribute your contributions using the [Apache 2.0 License](LICENSE.md).
 
 Please email a completed CLA with all fields filled in to [cla@agi.com](mailto:cla@agi.com).  Related questions are also welcome.
 
