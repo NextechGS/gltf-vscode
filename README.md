@@ -8,9 +8,9 @@
 
 Command name: `glTF: Preview 3D Model`, default keybinding: <kbd>ALT</kbd> + <kbd>G</kbd>
 
-The above model, other sample models, and associated licenses can be obtained from the [glTF-Sample-Models](https://github.com/KhronosGroup/glTF-Sample-Models) repository.
+The above model, other sample models, and associated licenses can be obtained from the [glTF-Sample-Models](https://github.com/NextechGS/glTF-Sample-Models) repository.
 
-You can preview glTF files in a number of different rendering engines: BabylonJS, Cesium, and ThreeJS.  The ThreeJS engine will preview the saved model as opposed to the current content in your open VS Code tab.  The Babylon and Cesium engines will first try to preview what is currently in your tab, and only if that fails will it fall back on displaying the version of the model saved on disk.
+You can preview glTF files in a number of different rendering engines: BabylonJS, NextechJS, ThreeJS, and Cesium.  The ThreeJS engine will preview the saved model as opposed to the current content in your open VS Code tab.  The NextechJS, Babylon and Cesium engines will first try to preview what is currently in your tab, and only if that fails will it fall back on displaying the version of the model saved on disk.
 
 ## Installing the glTF Tools Extension
 
@@ -219,19 +219,20 @@ Certain glTF 2.0 extensions are supported by JSON schema validation in VSCode.  
 * `AGI_articulations`
 * `AGI_stk_metadata`
 
-Support for additional extensions can be requested by filing an issue or pull request to [the GitHub repository](https://github.com/AnalyticalGraphicsInc/gltf-vscode).
+Support for additional extensions can be requested by filing an issue or pull request to [the GitHub repository](https://github.com/NextechGS/gltf-vscode).
 
 ## Source code
 
-on [GitHub](https://github.com/AnalyticalGraphicsInc/gltf-vscode).  See [CONTRIBUTING.md](CONTRIBUTING.md).
+on [GitHub](https://github.com/NextechGS/gltf-vscode).  See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Acknowledgements
 
 This extension makes use of the following open source projects:
 
- * [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) - One of the 3D engines used in the preview window
+ * [NextechJS](https://github.com/NextechGS/NextechJS) - One of the 3D engines used in the preview window
  * [Babylon.js](https://github.com/BabylonJS/Babylon.js) - One of the 3D engines used in the preview window
  * [Three.js](https://github.com/mrdoob/three.js/) - One of the 3D engines used in the preview window
+ * [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) - One of the 3D engines used in the preview window
  * [Knockout](http://knockoutjs.com/) - Used to data-bind preview window's menu
 
 ## License
